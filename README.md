@@ -7,4 +7,4 @@
 ![Kết quả](screenshots/result_1.jpg)
 ![Kết quả](screenshots/result_2.jpg)
 ![Kết quả](screenshots/result_3.jpg)
-![Kết quả](screenshots/result_.jpg)
+![Kết quả](screenshots/result_4.jpg)
